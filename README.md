@@ -392,3 +392,4 @@ To add new build options for your mod, you can add them to `mod_options.txt` fil
 <definition name>=<definition value> # <description>
 ```
 If `definition value` set to `OFF` or `ON`, it will be considered as a boolean value. Otherwise it will be a string. Nor `definition name` nor `definition value` can have whitespace characters.
+"# hlbshift-sdk-wasm" 
